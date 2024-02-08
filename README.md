@@ -19,13 +19,5 @@ Welcome to the Artisans E-Commerce Application! This web application serves as a
 - **jQuery**: JavaScript library for simplifying HTML document traversing, event handling, and animation.
 - **HTML/CSS**: Markup and styling languages for structuring and presenting web content.
 
-## Getting Started
 
-1. **Clone the Repository**:
-2. **Navigate to the Project Directory**: 
-3. **Restore Dependencies**: 
-4. **Run the Application**: 
-5. **Open in Browser**: 
-
-## Acknowledgements
 
